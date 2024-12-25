@@ -1,0 +1,10 @@
+Doc: med_es
+KEY WORDS:
+disciplina crucial, investigación médica, sociedad, terapias personalizadas, bienestar, permitido el desarrollo, desarrollo de tratamientos, tratamientos innovadores, innovadores y terapias, salud, médicos y enfermeros, desempeñan un papel, objetivo importante, avances, papel
+
+Essay:/
+La telemedicina ha ganado relevancia en los últimos años, facilitando el acceso a la atención médica desde la comodidad del hogar.
+Los profesionales de la salud, como médicos y enfermeros, desempeñan un papel fundamental en el cuidado de los pacientes.
+
+Machine Learning:
+La medicina es una disciplina crucial para el bienestar de la sociedad. La prevención de enfermedades
